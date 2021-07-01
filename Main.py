@@ -89,29 +89,29 @@ print("ACTIVATED")
 
 while True:
     print("Waiting for an event")
-    wait(lambda: ahk.image_search('C:/Users/danny/Documents/Roblox Bots/AHK Test/SmallServer.png') is not None or ahk.image_search('C:/Users/danny/Documents/Roblox Bots/AHK Test/PlatformSkins.png') is not None or ahk.image_search('C:/Users/danny/Documents/Roblox Bots/AHK Test/NewGame.png') is not None or ahk.image_search('C:/Users/danny/Documents/Roblox Bots/AHK Test/GameProgress.png') is not None or ahk.image_search('C:/Users/danny/Documents/Roblox Bots/AHK Test/VoteSkip.png') is not None or ahk.image_search('C:/Users/danny/Documents/Roblox Bots/AHK Test/QuestionBox.png') is not None or (ahk.image_search('C:/Users/danny/Documents/Roblox Bots/AHK Test/Spectate1.png') is not None and ahk.pixel_get_color(325, 866) == "0x00B400") or (ahk.image_search('C:/Users/danny/Documents/Roblox Bots/AHK Test/Spectate2.png') is not None and ahk.pixel_get_color(325, 866) == "0xFF6400"), timeout_seconds=250, waiting_for="Changed Event")
+    wait(lambda: ahk.image_search('C:/Users/danny/Documents/Files/Obby-Trivia-Challenge-Bot/ImagesSmallServer.png') is not None or ahk.image_search('C:/Users/danny/Documents/Files/Obby-Trivia-Challenge-Bot/ImagesPlatformSkins.png') is not None or ahk.image_search('C:/Users/danny/Documents/Files/Obby-Trivia-Challenge-Bot/ImagesNewGame.png') is not None or ahk.image_search('C:/Users/danny/Documents/Files/Obby-Trivia-Challenge-Bot/ImagesGameProgress.png') is not None or ahk.image_search('C:/Users/danny/Documents/Files/Obby-Trivia-Challenge-Bot/ImagesVoteSkip.png') is not None or ahk.image_search('C:/Users/danny/Documents/Files/Obby-Trivia-Challenge-Bot/ImagesQuestionBox.png') is not None or (ahk.image_search('C:/Users/danny/Documents/Files/Obby-Trivia-Challenge-Bot/ImagesSpectate1.png') is not None and ahk.pixel_get_color(325, 866) == "0x00B400") or (ahk.image_search('C:/Users/danny/Documents/Files/Obby-Trivia-Challenge-Bot/ImagesSpectate2.png') is not None and ahk.pixel_get_color(325, 866) == "0xFF6400"), timeout_seconds=250, waiting_for="Changed Event")
     print("Event happened")
-    if ahk.image_search('C:/Users/danny/Documents/Roblox Bots/AHK Test/SmallServer.png') is not None:
+    if ahk.image_search('C:/Users/danny/Documents/Files/Obby-Trivia-Challenge-Bot/ImagesSmallServer.png') is not None:
         exitProgram(b"Roblox")
         ahk.mouse_move(random.randrange(1054,1305), random.randrange(399,433), speed=random.randrange(8,11), relative=False)
         ahk.click()
         time.sleep(3.5)
         activateProgram(b"Roblox", 0, 0, 1300, 900)
-    elif ahk.image_search('C:/Users/danny/Documents/Roblox Bots/AHK Test/GameProgress.png'):
+    elif ahk.image_search('C:/Users/danny/Documents/Files/Obby-Trivia-Challenge-Bot/ImagesGameProgress.png'):
         print("Game Progress appeared")
         ahk.mouse_move(random.randrange(792,934), random.randrange(598,610), speed=random.randrange(8,11), relative=False)
         ahk.click()
-    elif ahk.image_search('C:/Users/danny/Documents/Roblox Bots/AHK Test/PlatformSkins.png'):
+    elif ahk.image_search('C:/Users/danny/Documents/Files/Obby-Trivia-Challenge-Bot/ImagesPlatformSkins.png'):
         print("PlatformSkins appeared")
         ahk.mouse_move(random.randrange(680,880), random.randrange(690,713), speed=random.randrange(8,11), relative=False)
         ahk.click()
-    elif ahk.image_search('C:/Users/danny/Documents/Roblox Bots/AHK Test/NewGame.png') is not None:
+    elif ahk.image_search('C:/Users/danny/Documents/Files/Obby-Trivia-Challenge-Bot/ImagesNewGame.png') is not None:
         chosen = random.randrange(1, 3)
         if chosen == 1:
             time.sleep(random.randrange(3, 5) / 10.0)
             chat(random.choice(newGame))
-        wait(lambda: checkForEvent(ahk.image_search('C:/Users/danny/Documents/Roblox Bots/AHK Test/NewGame.png') is None), timeout_seconds=30, waiting_for="Question to go away")
-    elif ahk.image_search('C:/Users/danny/Documents/Roblox Bots/AHK Test/VoteSkip.png'):
+        wait(lambda: checkForEvent(ahk.image_search('C:/Users/danny/Documents/Files/Obby-Trivia-Challenge-Bot/ImagesNewGame.png') is None), timeout_seconds=30, waiting_for="Question to go away")
+    elif ahk.image_search('C:/Users/danny/Documents/Files/Obby-Trivia-Challenge-Bot/ImagesVoteSkip.png'):
         print("Vote skip appeared")
         ahk.mouse_move(random.randrange(503,797), random.randrange(701,744), speed=random.randrange(8,11), relative=False)
         ahk.click()
@@ -120,11 +120,11 @@ while True:
             time.sleep(random.randrange(3, 5) / 10.0)
             chat(random.choice(voteReady))
         ahk.mouse_move(0, 0, speed=random.randrange(8,11), relative=False)
-        wait(lambda: checkForEvent(ahk.image_search('C:/Users/danny/Documents/Roblox Bots/AHK Test/VoteSkip.png') is None and ahk.image_search('C:/Users/danny/Documents/Roblox Bots/AHK Test/Intro1.png') is None and ahk.image_search('C:/Users/danny/Documents/Roblox Bots/AHK Test/Intro2.png') is None and ahk.image_search('C:/Users/danny/Documents/Roblox Bots/AHK Test/Intro3.png') is None and ahk.image_search('C:/Users/danny/Documents/Roblox Bots/AHK Test/Intro4.png') is None), timeout_seconds=50, waiting_for="Vote Skip to go Away")
-    elif ahk.pixel_get_color(363, 517) == "0x00A0FF" and ahk.image_search('C:/Users/danny/Documents/Roblox Bots/AHK Test/QuestionBox.png') is not None and ahk.image_search('C:/Users/danny/Documents/Roblox Bots/AHK Test/Congratulations.png') is None and ahk.image_search('C:/Users/danny/Documents/Roblox Bots/AHK Test/Intro1.png') is None and ahk.image_search('C:/Users/danny/Documents/Roblox Bots/AHK Test/Intro2.png') is None and ahk.image_search('C:/Users/danny/Documents/Roblox Bots/AHK Test/Intro3.png') is None and ahk.image_search('C:/Users/danny/Documents/Roblox Bots/AHK Test/Intro4.png') is None:
+        wait(lambda: checkForEvent(ahk.image_search('C:/Users/danny/Documents/Files/Obby-Trivia-Challenge-Bot/ImagesVoteSkip.png') is None and ahk.image_search('C:/Users/danny/Documents/Files/Obby-Trivia-Challenge-Bot/ImagesIntro1.png') is None and ahk.image_search('C:/Users/danny/Documents/Files/Obby-Trivia-Challenge-Bot/ImagesIntro2.png') is None and ahk.image_search('C:/Users/danny/Documents/Files/Obby-Trivia-Challenge-Bot/ImagesIntro3.png') is None and ahk.image_search('C:/Users/danny/Documents/Files/Obby-Trivia-Challenge-Bot/ImagesIntro4.png') is None), timeout_seconds=50, waiting_for="Vote Skip to go Away")
+    elif ahk.pixel_get_color(363, 517) == "0x00A0FF" and ahk.image_search('C:/Users/danny/Documents/Files/Obby-Trivia-Challenge-Bot/ImagesQuestionBox.png') is not None and ahk.image_search('C:/Users/danny/Documents/Files/Obby-Trivia-Challenge-Bot/ImagesCongratulations.png') is None and ahk.image_search('C:/Users/danny/Documents/Files/Obby-Trivia-Challenge-Bot/ImagesIntro1.png') is None and ahk.image_search('C:/Users/danny/Documents/Files/Obby-Trivia-Challenge-Bot/ImagesIntro2.png') is None and ahk.image_search('C:/Users/danny/Documents/Files/Obby-Trivia-Challenge-Bot/ImagesIntro3.png') is None and ahk.image_search('C:/Users/danny/Documents/Files/Obby-Trivia-Challenge-Bot/ImagesIntro4.png') is None:
         print("Going to answer a question")
         time.sleep(2)
-        Question = str.strip(getStringfromImage(265, 513, 1034, 573, "C:/Users/danny/Documents/Roblox Bots/AHK Test/QuestionMask.png"))
+        Question = str.strip(getStringfromImage(265, 513, 1034, 573, "C:/Users/danny/Documents/Files/Obby-Trivia-Challenge-Bot/ImagesQuestionMask.png"))
         print("The question is: " + Question)
         if Question is not None:
             query = { "Question": Question }
@@ -150,13 +150,13 @@ while True:
 
                 wait(lambda: checkForEvent(ahk.pixel_get_color(670, 595) == '0x00B400' or ahk.pixel_get_color(670, 645) == '0x00B400' or ahk.pixel_get_color(670, 694) == '0x00B400' or ahk.pixel_get_color(670, 744) == '0x00B400'), timeout_seconds=30, waiting_for="Answer")
                 if ahk.pixel_get_color(670, 595) == '0x00B400':
-                    answer = str.strip(getStringfromImage(457, 595, 842, 635, "C:/Users/danny/Documents/Roblox Bots/AHK Test/CorrectMask.png"))
+                    answer = str.strip(getStringfromImage(457, 595, 842, 635, "C:/Users/danny/Documents/Files/Obby-Trivia-Challenge-Bot/ImagesCorrectMask.png"))
                 elif ahk.pixel_get_color(670, 645) == '0x00B400':
-                    answer = str.strip(getStringfromImage(457, 645, 842, 685, "C:/Users/danny/Documents/Roblox Bots/AHK Test/CorrectMask.png"))
+                    answer = str.strip(getStringfromImage(457, 645, 842, 685, "C:/Users/danny/Documents/Files/Obby-Trivia-Challenge-Bot/ImagesCorrectMask.png"))
                 elif ahk.pixel_get_color(670, 694) == '0x00B400':
-                    answer = str.strip(getStringfromImage(457, 694, 842, 734, "C:/Users/danny/Documents/Roblox Bots/AHK Test/CorrectMask.png"))
+                    answer = str.strip(getStringfromImage(457, 694, 842, 734, "C:/Users/danny/Documents/Files/Obby-Trivia-Challenge-Bot/ImagesCorrectMask.png"))
                 elif ahk.pixel_get_color(670, 744) == '0x00B400':
-                    answer = str.strip(getStringfromImage(457, 744, 842, 784, "C:/Users/danny/Documents/Roblox Bots/AHK Test/CorrectMask.png"))
+                    answer = str.strip(getStringfromImage(457, 744, 842, 784, "C:/Users/danny/Documents/Files/Obby-Trivia-Challenge-Bot/ImagesCorrectMask.png"))
 
                 if answer is not None:
                     newEntry = { "Question": Question, "Answer": answer }
@@ -164,7 +164,7 @@ while True:
                     print("Answer (" + answer + ") added")
                 else:
                     print("Failed to see answer")
-                if ahk.image_search('C:/Users/danny/Documents/Roblox Bots/AHK Test/Wrong.png', upper_bound=(439, 586), lower_bound=(856, 789)) is not None:
+                if ahk.image_search('C:/Users/danny/Documents/Files/Obby-Trivia-Challenge-Bot/ImagesWrong.png', upper_bound=(439, 586), lower_bound=(856, 789)) is not None:
                     chosen = random.randrange(1, 7)
                     if chosen == 1:
                         time.sleep(random.randrange(3, 5) / 10.0)
@@ -177,31 +177,31 @@ while True:
                     time.sleep(random.randrange(3, 5) / 10.0)
                     chat(random.choice(questionRight))
 
-                if str.strip(getStringfromImage(457, 595, 842, 635, "C:/Users/danny/Documents/Roblox Bots/AHK Test/ChoiceMask.png")) == answer:
+                if str.strip(getStringfromImage(457, 595, 842, 635, "C:/Users/danny/Documents/Files/Obby-Trivia-Challenge-Bot/ImagesChoiceMask.png")) == answer:
                     ahk.mouse_move(random.randrange(457, 645), random.randrange(598,631), speed=random.randrange(8,11), relative=False)
                     ahk.click()
                     time.sleep(random.randrange(3, 5) / 10.0)
-                    chat(str.strip(getStringfromImage(457, 645, 842, 685, "C:/Users/danny/Documents/Roblox Bots/AHK Test/ChoiceMask.png")))
-                elif str.strip(getStringfromImage(457, 645, 842, 685, "C:/Users/danny/Documents/Roblox Bots/AHK Test/ChoiceMask.png")) == answer:
+                    chat(str.strip(getStringfromImage(457, 645, 842, 685, "C:/Users/danny/Documents/Files/Obby-Trivia-Challenge-Bot/ImagesChoiceMask.png")))
+                elif str.strip(getStringfromImage(457, 645, 842, 685, "C:/Users/danny/Documents/Files/Obby-Trivia-Challenge-Bot/ImagesChoiceMask.png")) == answer:
                     ahk.mouse_move(random.randrange(479,820), random.randrange(648,682), speed=random.randrange(8,11), relative=False)
                     ahk.click()
                     time.sleep(random.randrange(3, 5) / 10.0)
-                    chat(str.strip(getStringfromImage(457, 595, 842, 635, "C:/Users/danny/Documents/Roblox Bots/AHK Test/ChoiceMask.png")))
-                elif str.strip(getStringfromImage(457, 694, 842, 734, "C:/Users/danny/Documents/Roblox Bots/AHK Test/ChoiceMask.png")) == answer:
+                    chat(str.strip(getStringfromImage(457, 595, 842, 635, "C:/Users/danny/Documents/Files/Obby-Trivia-Challenge-Bot/ImagesChoiceMask.png")))
+                elif str.strip(getStringfromImage(457, 694, 842, 734, "C:/Users/danny/Documents/Files/Obby-Trivia-Challenge-Bot/ImagesChoiceMask.png")) == answer:
                     ahk.mouse_move(random.randrange(479,820), random.randrange(695,731), speed=random.randrange(8,11), relative=False)
                     ahk.click()
                     time.sleep(random.randrange(3, 5) / 10.0)
-                    chat(str.strip(getStringfromImage(457, 595, 842, 635, "C:/Users/danny/Documents/Roblox Bots/AHK Test/ChoiceMask.png")))
+                    chat(str.strip(getStringfromImage(457, 595, 842, 635, "C:/Users/danny/Documents/Files/Obby-Trivia-Challenge-Bot/ImagesChoiceMask.png")))
                 else:
                     ahk.mouse_move(random.randrange(479,820), random.randrange(746,782), speed=random.randrange(8,11), relative=False)
                     ahk.click()
                     time.sleep(random.randrange(3, 5) / 10.0)
-                    chat(str.strip(getStringfromImage(457, 595, 842, 635, "C:/Users/danny/Documents/Roblox Bots/AHK Test/ChoiceMask.png")))
+                    chat(str.strip(getStringfromImage(457, 595, 842, 635, "C:/Users/danny/Documents/Files/Obby-Trivia-Challenge-Bot/ImagesChoiceMask.png")))
                 
                 ahk.mouse_move(0, 0, speed=random.randrange(8,11), relative=False)
 
-        wait(lambda: checkForEvent(ahk.image_search('C:/Users/danny/Documents/Roblox Bots/AHK Test/QuestionBox.png') is None), timeout_seconds=100, waiting_for="Question to go away")
-    elif (ahk.image_search('C:/Users/danny/Documents/Roblox Bots/AHK Test/Spectate1.png') is not None and ahk.pixel_get_color(325, 866) == "0x00B400") or (ahk.image_search('C:/Users/danny/Documents/Roblox Bots/AHK Test/Spectate2.png') is not None and ahk.pixel_get_color(325, 866) == "0xFF6400"):
+        wait(lambda: checkForEvent(ahk.image_search('C:/Users/danny/Documents/Files/Obby-Trivia-Challenge-Bot/ImagesQuestionBox.png') is None), timeout_seconds=100, waiting_for="Question to go away")
+    elif (ahk.image_search('C:/Users/danny/Documents/Files/Obby-Trivia-Challenge-Bot/ImagesSpectate1.png') is not None and ahk.pixel_get_color(325, 866) == "0x00B400") or (ahk.image_search('C:/Users/danny/Documents/Files/Obby-Trivia-Challenge-Bot/ImagesSpectate2.png') is not None and ahk.pixel_get_color(325, 866) == "0xFF6400"):
         time.sleep(3)
         ahk.mouse_move(random.randrange(327,513), random.randrange(862,879), speed=random.randrange(8,11), relative=False)
         ahk.click()
