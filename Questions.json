@@ -1,0 +1,1579 @@
+[{
+  "_id": {
+    "$oid": "60dc01fedc8a6e57c0263296"
+  },
+  "Question": "How many years make up a century?",
+  "Answer": "100"
+},{
+  "_id": {
+    "$oid": "60dc0225dc8a6e57c0263297"
+  },
+  "Question": "What day of the week does Easter fall on?",
+  "Answer": "Sunday"
+},{
+  "_id": {
+    "$oid": "60dc0246dc8a6e57c0263298"
+  },
+  "Question": "What is the capital city of the United Kingdom?",
+  "Answer": "London"
+},{
+  "_id": {
+    "$oid": "60dc031b36db92baee2d39ca"
+  },
+  "Question": "Which country is situated in the Pyrenees mountains between France\nand Spain?",
+  "Answer": "Andorra"
+},{
+  "_id": {
+    "$oid": "60dc033136db92baee2d39cb"
+  },
+  "Question": "Which of these is a noble gas?",
+  "Answer": "Neon (Ne)"
+},{
+  "_id": {
+    "$oid": "60dc066dcd300dcd78f3bd3f"
+  },
+  "Question": "Which of these board games uses dice?",
+  "Answer": "Snakes & Ladders"
+},{
+  "_id": {
+    "$oid": "60dc0691cd300dcd78f3bd40"
+  },
+  "Question": "How many squares are there on a chessboard?",
+  "Answer": "64"
+},{
+  "_id": {
+    "$oid": "60dc06b6cd300dcd78f3bd41"
+  },
+  "Question": "Which planet is closest to the sun?",
+  "Answer": "Mercury"
+},{
+  "_id": {
+    "$oid": "60dc06d3cd300dcd78f3bd42"
+  },
+  "Question": "What was the name of the Roblox currency that was discontinued in\n2016?",
+  "Answer": "Tickets"
+},{
+  "_id": {
+    "$oid": "60dc06facd300dcd78f3bd43"
+  },
+  "Question": "Which of these is NOT a square number?",
+  "Answer": "72"
+},{
+  "_id": {
+    "$oid": "60dc0825a798112dba066eda"
+  },
+  "Question": "Which bird shares it's name with a famous Roblox Youtuber?",
+  "Answer": "Flamingo"
+},{
+  "_id": {
+    "$oid": "60dc0838a798112dba066edb"
+  },
+  "Question": "In which sport is Usain Bolt widely considered to be the greatest of all\ntime?",
+  "Answer": "Sprinting"
+},{
+  "_id": {
+    "$oid": "60dc085ea798112dba066edc"
+  },
+  "Question": "What is the term given to the longest and shortest days of the year?",
+  "Answer": "Solstice"
+},{
+  "_id": {
+    "$oid": "60dc087da798112dba066edd"
+  },
+  "Question": "Which country has the largest population?",
+  "Answer": "China"
+},{
+  "_id": {
+    "$oid": "60dc09c986245d80341460e1"
+  },
+  "Question": "Which of the following is the name given to the tensions between the\nUnited States and the Soviet Union from 1947 to 1991?",
+  "Answer": "Cold War"
+},{
+  "_id": {
+    "$oid": "60dc09ec86245d80341460e2"
+  },
+  "Question": "According to the Dr. Seuss book, who stole Christmas?",
+  "Answer": "Grinch"
+},{
+  "_id": {
+    "$oid": "60dc0a0186245d80341460e3"
+  },
+  "Question": "Which name is given to the Motion Picture Academy Awards?",
+  "Answer": "Oscars"
+},{
+  "_id": {
+    "$oid": "60dc0a2a86245d80341460e4"
+  },
+  "Question": "How many legs does a lobster have?",
+  "Answer": "10"
+},{
+  "_id": {
+    "$oid": "60dc0a5286245d80341460e5"
+  },
+  "Question": "Which board game uses the phrase, \"Global Domination\"?",
+  "Answer": "Risk"
+},{
+  "_id": {
+    "$oid": "60dc0d002c6a12aad130988a"
+  },
+  "Question": "What is the name given to a region of spacetime where gravity is so\nstrong that light cannot even escape it?",
+  "Answer": "Black Hole"
+},{
+  "_id": {
+    "$oid": "60dc0d152c6a12aad130988b"
+  },
+  "Question": "What chocolate bar is also the name of a flightless bird?",
+  "Answer": "Penguin"
+},{
+  "_id": {
+    "$oid": "60dc0d362c6a12aad130988c"
+  },
+  "Question": "How many players on the pitch does each team start with in a game of\nfootball (Soccer)?",
+  "Answer": "11"
+},{
+  "_id": {
+    "$oid": "60dc0dc02c6a12aad130988d"
+  },
+  "Question": "Which ancient civilization was known for building Pyramids?",
+  "Answer": "Egyptians"
+},{
+  "_id": {
+    "$oid": "60dc0de42c6a12aad130988e"
+  },
+  "Question": "Which of the following acronyms would a person most likely say\nbefore walking away from their computer?",
+  "Answer": "AFK"
+},{
+  "_id": {
+    "$oid": "60dc0e1d2c6a12aad130988f"
+  },
+  "Question": "What is the Capital of the USA?",
+  "Answer": "Washington D.C."
+},{
+  "_id": {
+    "$oid": "60dc9b3688a8e5f3a7bc0949"
+  },
+  "Question": "Which country is home to the kangaroo?",
+  "Answer": "Australia"
+},{
+  "_id": {
+    "$oid": "60dc9b5988a8e5f3a7bc094a"
+  },
+  "Question": "What is the capital city of the United Kingdom?",
+  "Answer": "London"
+},{
+  "_id": {
+    "$oid": "60dc9b6a88a8e5f3a7bc094b"
+  },
+  "Question": "Which food belongs to the meat group?",
+  "Answer": "Beef Burger"
+},{
+  "_id": {
+    "$oid": "60dc9b8d88a8e5f3a7bc094c"
+  },
+  "Question": "What is the name of the town where the cartoon family The Simpsons\nlive?",
+  "Answer": "Springfield"
+},{
+  "_id": {
+    "$oid": "60dc9ba888a8e5f3a7bc094d"
+  },
+  "Question": "What is the capital city of France?",
+  "Answer": "Paris"
+},{
+  "_id": {
+    "$oid": "60dc9bbc88a8e5f3a7bc094e"
+  },
+  "Question": "Which religion has an eight-spoked wheel as it's symbol?",
+  "Answer": "Buddhism"
+},{
+  "_id": {
+    "$oid": "60dc9bdc88a8e5f3a7bc094f"
+  },
+  "Question": "How many years did the 2nd world war last?",
+  "Answer": "6 Years"
+},{
+  "_id": {
+    "$oid": "60dc9f244c5fb80b59f54c7d"
+  },
+  "Question": "Where was the pizza invented?",
+  "Answer": "Italy"
+},{
+  "_id": {
+    "$oid": "60dc9f394c5fb80b59f54c7e"
+  },
+  "Question": "How long does it take Earth to orbit the sun?",
+  "Answer": "1 Year"
+},{
+  "_id": {
+    "$oid": "60dca599db9297b02f17048e"
+  },
+  "Question": "What is the capital city of China?",
+  "Answer": "Beijing"
+},{
+  "_id": {
+    "$oid": "60dca9ab0a1f757450f4a13a"
+  },
+  "Question": "In Eight-Ball pool, what colour is the \"Eight-Ball\"?",
+  "Answer": "Black"
+},{
+  "_id": {
+    "$oid": "60dca9c00a1f757450f4a13b"
+  },
+  "Question": "Which Roblox staff member created Sword Fights on the Heights?",
+  "Answer": "Shedletsky"
+},{
+  "_id": {
+    "$oid": "60dcac35d8a429121e3d94a1"
+  },
+  "Question": "In which UK country is\nLlanfairpwllgwyngyllgogerychwyrndrobwilllantysiliogogogoch?",
+  "Answer": "Wales"
+},{
+  "_id": {
+    "$oid": "60dcac59d8a429121e3d94a2"
+  },
+  "Question": "In the equation E=mc2, what does c stand for?",
+  "Answer": "Speed of Light"
+},{
+  "_id": {
+    "$oid": "60dcadfcb93c165cb7016786"
+  },
+  "Question": "Who achieved the fastest maximum break in competitive snooker?",
+  "Answer": "Ronnie O'Sullivan"
+},{
+  "_id": {
+    "$oid": "60dcb01ccd5b5053fba1fdf6"
+  },
+  "Question": "Which of these foods is usually included in an American Thanksgiving\nmeal?",
+  "Answer": "Turkey"
+},{
+  "_id": {
+    "$oid": "60dcb1b4a114ff48c481b252"
+  },
+  "Question": "In which year was Donald Trump elected as President of the United\nStates",
+  "Answer": "2016"
+},{
+  "_id": {
+    "$oid": "60dcb1d5a114ff48c481b253"
+  },
+  "Question": "What colour are the spots on a lady beetle?",
+  "Answer": "Black"
+},{
+  "_id": {
+    "$oid": "60dcb1f9a114ff48c481b254"
+  },
+  "Question": "In which of these sports would you use the term Home run?",
+  "Answer": "Baseball"
+},{
+  "_id": {
+    "$oid": "60dcb21aa114ff48c481b255"
+  },
+  "Question": "Which of the following is a name given to the Jewish god?",
+  "Answer": "Jehovah"
+},{
+  "_id": {
+    "$oid": "60dcb239a114ff48c481b256"
+  },
+  "Question": "Which of the following is NOT one of the five colors of the Olympic\nRings?",
+  "Answer": "Purple"
+},{
+  "_id": {
+    "$oid": "60dcb256a114ff48c481b257"
+  },
+  "Question": "Which animal completes the saying, \"Blind as a...\"",
+  "Answer": "Bat"
+},{
+  "_id": {
+    "$oid": "60dcb64453cb3a7ac721c07b"
+  },
+  "Question": "What is the name of the toy cowboy in Toy Story?",
+  "Answer": "Woody"
+},{
+  "_id": {
+    "$oid": "60dcb65753cb3a7ac721c07c"
+  },
+  "Question": "In Disney’s The Lion King, what was Simba’s father’s name?",
+  "Answer": "Mufasa"
+},{
+  "_id": {
+    "$oid": "60dcb66b53cb3a7ac721c07d"
+  },
+  "Question": "Which country is largest by land area?",
+  "Answer": "Russia"
+},{
+  "_id": {
+    "$oid": "60dcb68853cb3a7ac721c07e"
+  },
+  "Question": "What is the name of Shrek’s wife?",
+  "Answer": "Fiona"
+},{
+  "_id": {
+    "$oid": "60dcb69c53cb3a7ac721c07f"
+  },
+  "Question": "Which of the following social media platforms is the oldest?",
+  "Answer": "MySpace"
+},{
+  "_id": {
+    "$oid": "60dcb6c053cb3a7ac721c080"
+  },
+  "Question": "Which is the most common gas in the Earth's atmosphere?",
+  "Answer": "Nitrogen"
+},{
+  "_id": {
+    "$oid": "60dcb6d653cb3a7ac721c081"
+  },
+  "Question": "How many stripes are there on the flag of the USA?",
+  "Answer": "13"
+},{
+  "_id": {
+    "$oid": "60dcb79953cb3a7ac721c082"
+  },
+  "Question": "Which of these countries shares a land border with the USA?",
+  "Answer": "Mexico"
+},{
+  "_id": {
+    "$oid": "60dcb7d353cb3a7ac721c083"
+  },
+  "Question": "Ping-Pong is another name for which sport?",
+  "Answer": "Table Tennis"
+},{
+  "_id": {
+    "$oid": "60dcb7fe53cb3a7ac721c084"
+  },
+  "Question": "Which religion has a crescent moon and star as it's symbol?",
+  "Answer": "Islam"
+},{
+  "_id": {
+    "$oid": "60dcb8977485bfdf31dd4cad"
+  },
+  "Question": "What is the name given to an animal who mostly eats meat?",
+  "Answer": "Carnivore"
+},{
+  "_id": {
+    "$oid": "60dcb8ab7485bfdf31dd4cae"
+  },
+  "Question": "What Car manufacturer is known for making the Focus, Fiesta and\nMustang?",
+  "Answer": "Ford"
+},{
+  "_id": {
+    "$oid": "60dcb8be7485bfdf31dd4caf"
+  },
+  "Question": "After how many years does a couple celebrate their golden wedding\nanniversary?",
+  "Answer": "50"
+},{
+  "_id": {
+    "$oid": "60dcb9e2522aff2b6ab01e92"
+  },
+  "Question": "Which social media website has a blue bird as it's logo?",
+  "Answer": "Twitter"
+},{
+  "_id": {
+    "$oid": "60dcba22522aff2b6ab01e93"
+  },
+  "Question": "What is the capital city of Germany?",
+  "Answer": "Berlin"
+},{
+  "_id": {
+    "$oid": "60dcba71522aff2b6ab01e94"
+  },
+  "Question": "Which of these countries remained mostly neutral during World War\n2?",
+  "Answer": "Spain"
+},{
+  "_id": {
+    "$oid": "60dcba9d522aff2b6ab01e95"
+  },
+  "Question": "Which is the only planet in our solar system to be named after a female\ndeity (goddess)?",
+  "Answer": "Venus"
+},{
+  "_id": {
+    "$oid": "60dcbaf17d45fb89ce506f16"
+  },
+  "Question": "Which month does Halloween fall on?",
+  "Answer": "October"
+},{
+  "_id": {
+    "$oid": "60dcc36ad81545227c46a5a3"
+  },
+  "Question": "Who was the president of the United States of America before Donald\nTrump?",
+  "Answer": "Barack Obama"
+},{
+  "_id": {
+    "$oid": "60dcc393d81545227c46a5a4"
+  },
+  "Question": "What does a player say after a winning move in a game of Chess?",
+  "Answer": "Checkmate"
+},{
+  "_id": {
+    "$oid": "60dcc3c8d81545227c46a5a6"
+  },
+  "Question": "Which year did London last host the olympic games?",
+  "Answer": "2012"
+},{
+  "_id": {
+    "$oid": "60dcc4197559edf7bbdd3e5c"
+  },
+  "Question": "What is the symbol for the element Hydrogen?",
+  "Answer": "u"
+},{
+  "_id": {
+    "$oid": "60dcc4697559edf7bbdd3e5d"
+  },
+  "Question": "How many legs does a spider have?",
+  "Answer": "8"
+},{
+  "_id": {
+    "$oid": "60dcc48e7559edf7bbdd3e5e"
+  },
+  "Question": "How many hours are there in 2 days?",
+  "Answer": "48"
+},{
+  "_id": {
+    "$oid": "60dcc4bf7559edf7bbdd3e5f"
+  },
+  "Question": "In Degrees Celcius, what is the boiling point of water?",
+  "Answer": "100"
+},{
+  "_id": {
+    "$oid": "60dcc5bd966f95aa4cae03f0"
+  },
+  "Question": "How many Aces are there in a standard pack of playing cards?",
+  "Answer": "4"
+},{
+  "_id": {
+    "$oid": "60dcc694692fcf30d9fb6f6d"
+  },
+  "Question": "In which obstacle course game show do competitors face the \"Big\nBalls\"?",
+  "Answer": "Wipeout"
+},{
+  "_id": {
+    "$oid": "60dcc6a9692fcf30d9fb6f6e"
+  },
+  "Question": "What is the chemical name for table salt?",
+  "Answer": "Sodium Chloride"
+},{
+  "_id": {
+    "$oid": "60dcc78d758a23001e8e61f1"
+  },
+  "Question": "How many days are there in a Fortnight?",
+  "Answer": "14"
+},{
+  "_id": {
+    "$oid": "60dcc7c1758a23001e8e61f3"
+  },
+  "Question": "What metallic prizes are awarded to the top three finishers in an\nolympic sport?",
+  "Answer": "Medals"
+},{
+  "_id": {
+    "$oid": "60dcc858e36ddc26758e3da0"
+  },
+  "Question": "How many strings are there on a standard Guitar?",
+  "Answer": "Six"
+},{
+  "_id": {
+    "$oid": "60dcc87ce36ddc26758e3da1"
+  },
+  "Question": "On the pH scale, what number is an approximation of a neutral\nsolution?",
+  "Answer": "7"
+},{
+  "_id": {
+    "$oid": "60dcc8a6e36ddc26758e3da2"
+  },
+  "Question": "Which religion has a place of worship called a \"Gurdwara\"?",
+  "Answer": "Sikhism"
+},{
+  "_id": {
+    "$oid": "60dcc8bae36ddc26758e3da3"
+  },
+  "Question": "Which of these is the name of an English football club?",
+  "Answer": "Crystal Palace"
+},{
+  "_id": {
+    "$oid": "60dcc8ece36ddc26758e3da4"
+  },
+  "Question": "What does the musical term \"crescendo\" mean?",
+  "Answer": "Play Louder"
+},{
+  "_id": {
+    "$oid": "60dcc9c3e36ddc26758e3da5"
+  },
+  "Question": "What name is often given to the largest prize in a game show?",
+  "Answer": "Jackpot"
+},{
+  "_id": {
+    "$oid": "60dcca08e36ddc26758e3da6"
+  },
+  "Question": "How many milligrams make a gram?",
+  "Answer": "1000"
+},{
+  "_id": {
+    "$oid": "60dcca40e36ddc26758e3da7"
+  },
+  "Question": "Which of the following colours appears on the Italian flag?",
+  "Answer": "Green"
+},{
+  "_id": {
+    "$oid": "60dcca64e36ddc26758e3da8"
+  },
+  "Question": "How many seconds make up one hour?",
+  "Answer": "3600"
+},{
+  "_id": {
+    "$oid": "60dccaa3e36ddc26758e3da9"
+  },
+  "Question": "In Norse Mythology, which deity was said to wield a lightning charged\nhammer?",
+  "Answer": "Thor"
+},{
+  "_id": {
+    "$oid": "60dccab9e36ddc26758e3daa"
+  },
+  "Question": "How long is an Olympic Swimming pool",
+  "Answer": "50m"
+},{
+  "_id": {
+    "$oid": "60dccae7e36ddc26758e3dab"
+  },
+  "Question": "Which Natural Disaster is measured with a Richter Scale?",
+  "Answer": "Earthquake"
+},{
+  "_id": {
+    "$oid": "60dccbd333977248559ce625"
+  },
+  "Question": "Which of these numbers is divisible by 10?",
+  "Answer": "80"
+},{
+  "_id": {
+    "$oid": "60dccc3ec4b9b287eeb4a027"
+  },
+  "Question": "What is the most widely spoken language in Brazil?",
+  "Answer": "Portuguese"
+},{
+  "_id": {
+    "$oid": "60dccc53c4b9b287eeb4a028"
+  },
+  "Question": "What English King was known for having six wives?",
+  "Answer": "Henry VIII"
+},{
+  "_id": {
+    "$oid": "60dccc876be7ee8534bdfdf5"
+  },
+  "Question": "How many zeroes are there in the number One Trillion?",
+  "Answer": "12"
+},{
+  "_id": {
+    "$oid": "60dcccbd6be7ee8534bdfdf6"
+  },
+  "Question": "Which Star Wars character uses a purple lightsaber?",
+  "Answer": "Mace Windu"
+},{
+  "_id": {
+    "$oid": "60dcccea6be7ee8534bdfdf7"
+  },
+  "Question": "What is the chemical symbol for Iron?",
+  "Answer": "Fe"
+},{
+  "_id": {
+    "$oid": "60dccd3b6be7ee8534bdfdf8"
+  },
+  "Question": "Which of the following fruits are yellow?",
+  "Answer": "Banana"
+},{
+  "_id": {
+    "$oid": "60dccde54558568123b4dd6a"
+  },
+  "Question": "In the Simpsons, what is the name of Homer Simpson's wife?",
+  "Answer": "Marge"
+},{
+  "_id": {
+    "$oid": "60dcce0d4558568123b4dd6b"
+  },
+  "Question": "In which war did the Battle of Midway take place?",
+  "Answer": "World War 2"
+},{
+  "_id": {
+    "$oid": "60dcce374558568123b4dd6c"
+  },
+  "Question": "In Darts, what is the highest possible score with three darts?",
+  "Answer": "180"
+},{
+  "_id": {
+    "$oid": "60dcce4d4558568123b4dd6d"
+  },
+  "Question": "In Ten-pin bowling, how many pins are on the back row?",
+  "Answer": "4"
+},{
+  "_id": {
+    "$oid": "60dccea5249924d4aad21b56"
+  },
+  "Question": "Which month does Valentine's Day fall on?",
+  "Answer": "February"
+},{
+  "_id": {
+    "$oid": "60dccedb249924d4aad21b57"
+  },
+  "Question": "Which of the following is written in the past tense?",
+  "Answer": "| have played"
+},{
+  "_id": {
+    "$oid": "60dccfa7d7f6a2cd723b0ddd"
+  },
+  "Question": "In Futurama, what is the name of the Robot who becomes Fry's best\nfriend?",
+  "Answer": "Bender"
+},{
+  "_id": {
+    "$oid": "60dcd04ad7f6a2cd723b0dde"
+  },
+  "Question": "How many centimetres are in a metre?",
+  "Answer": "100"
+},{
+  "_id": {
+    "$oid": "60dcd07cd7f6a2cd723b0ddf"
+  },
+  "Question": "How many months are in 3 years?",
+  "Answer": "36"
+},{
+  "_id": {
+    "$oid": "60dcd0c7350c1a91c69ce12b"
+  },
+  "Question": "Which of these board games involves buying and trading property?",
+  "Answer": "Monopoly"
+},{
+  "_id": {
+    "$oid": "60dcd100350c1a91c69ce12c"
+  },
+  "Question": "What is the standard unit of power?",
+  "Answer": "Watt"
+},{
+  "_id": {
+    "$oid": "60dcd131350c1a91c69ce12d"
+  },
+  "Question": "The Netflix series Stranger Things takes place in what decade?",
+  "Answer": "1980's"
+},{
+  "_id": {
+    "$oid": "60dcd156350c1a91c69ce12e"
+  },
+  "Question": "How many edges does a cube have?",
+  "Answer": "12"
+},{
+  "_id": {
+    "$oid": "60dcd180350c1a91c69ce12f"
+  },
+  "Question": "In Dragon Ball Z, how many dragon balls must be gathered to summon\nthe eternal dragon?",
+  "Answer": "7"
+},{
+  "_id": {
+    "$oid": "60dcd1a0350c1a91c69ce130"
+  },
+  "Question": "What is the currency of Hong Kong?",
+  "Answer": "Hong Kong Dollar"
+},{
+  "_id": {
+    "$oid": "60dcd2276dab2d6000a477a7"
+  },
+  "Question": "How many years make up a decade",
+  "Answer": "10"
+},{
+  "_id": {
+    "$oid": "60dcd24c6dab2d6000a477a8"
+  },
+  "Question": "What is the seventh month of the year? (Gregorian Calender)",
+  "Answer": "July"
+},{
+  "_id": {
+    "$oid": "60dcd2b272a2165053b7def1"
+  },
+  "Question": "How many players are there on a baseball team?",
+  "Answer": "9"
+},{
+  "_id": {
+    "$oid": "60dcd2d772a2165053b7def2"
+  },
+  "Question": "Who is the longest reigning British monarch?",
+  "Answer": "Elizabeth II"
+},{
+  "_id": {
+    "$oid": "60dcd2f772a2165053b7def3"
+  },
+  "Question": "Which state is famous for Hollywood?",
+  "Answer": "California"
+},{
+  "_id": {
+    "$oid": "60dcd31772a2165053b7def4"
+  },
+  "Question": "How many faces does a Dodecahedron have?",
+  "Answer": "12"
+},{
+  "_id": {
+    "$oid": "60dcd3db72a2165053b7def5"
+  },
+  "Question": "Which social media platform has a camera as its logo?",
+  "Answer": "Instagram"
+},{
+  "_id": {
+    "$oid": "60dcd5e290b7be48cb9e6898"
+  },
+  "Question": "What is the traditional colour of an American school bus?",
+  "Answer": "Yellow"
+},{
+  "_id": {
+    "$oid": "60dcd62e90b7be48cb9e6899"
+  },
+  "Question": "Which of these sports does NOT use a net?",
+  "Answer": "Rugby"
+},{
+  "_id": {
+    "$oid": "60dcd65390b7be48cb9e689a"
+  },
+  "Question": "In which city is the cathedral of Notre Dame?",
+  "Answer": "Paris"
+},{
+  "_id": {
+    "$oid": "60dcd67b90b7be48cb9e689b"
+  },
+  "Question": "In the cartoon \"Tom and Jerry\", what animal is Tom?",
+  "Answer": "Cat"
+},{
+  "_id": {
+    "$oid": "60dcd6c390b7be48cb9e689c"
+  },
+  "Question": "Which of these is a famous christmas song?",
+  "Answer": "Jingle Bells"
+},{
+  "_id": {
+    "$oid": "60dcd6e890b7be48cb9e689d"
+  },
+  "Question": "How many colours are present on the flag of France?",
+  "Answer": "3"
+},{
+  "_id": {
+    "$oid": "60dcd70990b7be48cb9e689e"
+  },
+  "Question": "How many letters are there in the English alphabet?",
+  "Answer": "26"
+},{
+  "_id": {
+    "$oid": "60dcd7a74d939cf6db87735d"
+  },
+  "Question": "What is the name given to the delay in the connection between a client\nand server?",
+  "Answer": "Ping"
+},{
+  "_id": {
+    "$oid": "60dcd7fb4d939cf6db87735e"
+  },
+  "Question": "Which was the first Roblox game to amass more than one million\nconcurrent players?",
+  "Answer": "Adopt Me!"
+},{
+  "_id": {
+    "$oid": "60dcd8224d939cf6db87735f"
+  },
+  "Question": "Which of these is a liquid at room temperature?",
+  "Answer": "Mercury"
+},{
+  "_id": {
+    "$oid": "60dcd8e74d939cf6db877360"
+  },
+  "Question": "How many Moons does Earth have?",
+  "Answer": "l"
+},{
+  "_id": {
+    "$oid": "60dcd9094d939cf6db877361"
+  },
+  "Question": "Which country does Anime originate from?",
+  "Answer": "Japan"
+},{
+  "_id": {
+    "$oid": "60dcd92d4d939cf6db877362"
+  },
+  "Question": "How many strings does a violin have?",
+  "Answer": "4"
+},{
+  "_id": {
+    "$oid": "60dcd9584d939cf6db877363"
+  },
+  "Question": "How many body parts does a traditional Roblox character have?",
+  "Answer": "6"
+},{
+  "_id": {
+    "$oid": "60dcd9934d939cf6db877364"
+  },
+  "Question": "Hitting the ball out of bounds without bouncing scores 6 points in\nwhich sport?",
+  "Answer": "Cricket"
+},{
+  "_id": {
+    "$oid": "60dcd9b94d939cf6db877365"
+  },
+  "Question": "Which boxer can be quoted saying \"Float like a butterfly, sting like a\nbee\"?",
+  "Answer": "Muhammad Ali"
+},{
+  "_id": {
+    "$oid": "60dcda854d939cf6db877366"
+  },
+  "Question": "What are bees known for producing?",
+  "Answer": "Honey"
+},{
+  "_id": {
+    "$oid": "60dcdacc4d939cf6db877367"
+  },
+  "Question": "What is the third letter of the English alphabet?",
+  "Answer": "c"
+},{
+  "_id": {
+    "$oid": "60dcdaf04d939cf6db877368"
+  },
+  "Question": "Which type of amusement park ride would you likely see a \"Loop\",\n\"Corkscrew\" or \"Barrel Roll\"?",
+  "Answer": "Rollercoaster"
+},{
+  "_id": {
+    "$oid": "60dcdb104d939cf6db877369"
+  },
+  "Question": "In which sport is Usain Bolt widely considered: Game In Progre\ntime? Van can win caine while",
+  "Answer": "Sprinting"
+},{
+  "_id": {
+    "$oid": "60dcdb754d939cf6db87736a"
+  },
+  "Question": "Which of these flags uses only two colours?",
+  "Answer": "Poland"
+},{
+  "_id": {
+    "$oid": "60dcdb8a4d939cf6db87736b"
+  },
+  "Question": "The word \"tempo\" originated from Italian. What is its original\nmeaning?",
+  "Answer": "Time"
+},{
+  "_id": {
+    "$oid": "60dcdbab4d939cf6db87736c"
+  },
+  "Question": "How many tiles are there in a traditional set of Dominoes? (Including\nblank and numbers 1 - 6)",
+  "Answer": "28"
+},{
+  "_id": {
+    "$oid": "60dcdc014d939cf6db87736d"
+  },
+  "Question": "Which country is the famous New York City located?",
+  "Answer": "United States (US)"
+},{
+  "_id": {
+    "$oid": "60dcdc234d939cf6db87736e"
+  },
+  "Question": "Which country is the Eiffel Tower located in?",
+  "Answer": "France"
+},{
+  "_id": {
+    "$oid": "60dcdc454d939cf6db87736f"
+  },
+  "Question": "Which fast food restaurant is known for its Big Macs?",
+  "Answer": "McDonald's"
+},{
+  "_id": {
+    "$oid": "60dcdc834d939cf6db877370"
+  },
+  "Question": "Traditionally, what colour is a clown's nose?",
+  "Answer": "Red"
+},{
+  "_id": {
+    "$oid": "60dcdc994d939cf6db877371"
+  },
+  "Question": "What is the capital city of Japan?",
+  "Answer": "Tokyo"
+},{
+  "_id": {
+    "$oid": "60dcdcaf4d939cf6db877372"
+  },
+  "Question": "Which food group is typically placed at the top of the food pyramid?",
+  "Answer": "Fats and Sweets"
+},{
+  "_id": {
+    "$oid": "60dcdcd44d939cf6db877373"
+  },
+  "Question": "In the Anime Death Note which character is know as Kira?",
+  "Answer": "Light"
+},{
+  "_id": {
+    "$oid": "60dcdcf44d939cf6db877374"
+  },
+  "Question": "Which development group created Jailbreak?",
+  "Answer": "Badimo"
+},{
+  "_id": {
+    "$oid": "60dcdd174d939cf6db877375"
+  },
+  "Question": "Which historical figure appears on the £5 note",
+  "Answer": "Winston Churchill"
+},{
+  "_id": {
+    "$oid": "60dcddef4d939cf6db877376"
+  },
+  "Question": "What is the centre of our solar system?",
+  "Answer": "The Sun"
+},{
+  "_id": {
+    "$oid": "60dcde264d939cf6db877377"
+  },
+  "Question": "Which country withdrew from the European Union on the 31st of\nJanurary 2020?",
+  "Answer": "United Kingdom"
+},{
+  "_id": {
+    "$oid": "60dcde4b4d939cf6db877378"
+  },
+  "Question": "Who was the first President of the United States",
+  "Answer": "George Washington"
+},{
+  "_id": {
+    "$oid": "60dcde764d939cf6db877379"
+  },
+  "Question": "What is the chemical symbol for Silver?",
+  "Answer": "Ag"
+},{
+  "_id": {
+    "$oid": "60dcdfa74d939cf6db87737a"
+  },
+  "Question": "Where would you find the Golden Gate bridge?",
+  "Answer": "USA"
+},{
+  "_id": {
+    "$oid": "60dcdfec4d939cf6db87737b"
+  },
+  "Question": "Which girls name completes the title of the Shakespeare play, Romeo\nand_____?",
+  "Answer": "Juliet"
+},{
+  "_id": {
+    "$oid": "60dce0114d939cf6db87737c"
+  },
+  "Question": "In Soccer/Football, how many goals is a hat trick?",
+  "Answer": "3"
+},{
+  "_id": {
+    "$oid": "60dce0384d939cf6db87737d"
+  },
+  "Question": "Which of these sports is likely to be decided by a \"photo-finish\"?",
+  "Answer": "Horse Racing"
+},{
+  "_id": {
+    "$oid": "60dce05b4d939cf6db87737e"
+  },
+  "Question": "In which year was Hong Kong handed over to China?",
+  "Answer": "1997"
+},{
+  "_id": {
+    "$oid": "60dce0854d939cf6db87737f"
+  },
+  "Question": "The cruciate ligiments are found in which part of the human body?",
+  "Answer": "Knee"
+},{
+  "_id": {
+    "$oid": "60dce0af4d939cf6db877380"
+  },
+  "Question": "Which is the highest mountain above sea level?",
+  "Answer": "Mount Everest"
+},{
+  "_id": {
+    "$oid": "60dce0da4d939cf6db877381"
+  },
+  "Question": "When was the first Eurovision Song Contest held?",
+  "Answer": "1956"
+},{
+  "_id": {
+    "$oid": "60dce1614d939cf6db877382"
+  },
+  "Question": "How many years make up a millennium?",
+  "Answer": "1,000"
+},{
+  "_id": {
+    "$oid": "60dce1884d939cf6db877383"
+  },
+  "Question": "How many zeroes in the number, one thousand?",
+  "Answer": "3"
+},{
+  "_id": {
+    "$oid": "60dce1af4d939cf6db877384"
+  },
+  "Question": "Which Youtuber faced controversy after uploading a video containing\ncorpse, onthe 31st of December 2017?",
+  "Answer": "Logan Paul"
+},{
+  "_id": {
+    "$oid": "60dce1d34d939cf6db877385"
+  },
+  "Question": "Fill in the blank in the common saying, \"Once ina",
+  "Answer": "Blue"
+},{
+  "_id": {
+    "$oid": "60dce1e54d939cf6db877386"
+  },
+  "Question": "How many degrees are there in a circle?",
+  "Answer": "360"
+},{
+  "_id": {
+    "$oid": "60dce2b04d939cf6db877387"
+  },
+  "Question": "Which of these is a name given to a malicious computer program?",
+  "Answer": "Virus"
+},{
+  "_id": {
+    "$oid": "60dce2e84d939cf6db877388"
+  },
+  "Question": "Which is the tallest mammal?",
+  "Answer": "Giraffe"
+},{
+  "_id": {
+    "$oid": "60dce2fc4d939cf6db877389"
+  },
+  "Question": "What is the default keyboard shortcut for \"copy\"?",
+  "Answer": "ctrl+c"
+},{
+  "_id": {
+    "$oid": "60dce31d4d939cf6db87738a"
+  },
+  "Question": "Who was the first human to step foot on the moon?",
+  "Answer": "Neil Armstrong"
+},{
+  "_id": {
+    "$oid": "60dce38f4d939cf6db87738b"
+  },
+  "Question": "Approximately how many miles is a Marathon?",
+  "Answer": "26"
+},{
+  "_id": {
+    "$oid": "60dce3b54d939cf6db87738c"
+  },
+  "Question": "Who is the founder of the multi-national te by Joining the audience o\nAmazon? in the practice are",
+  "Answer": "Jeff Bezos"
+},{
+  "_id": {
+    "$oid": "60dce3cb4d939cf6db87738d"
+  },
+  "Question": "Which calendar does most of the world use?",
+  "Answer": "Gregorian Calendar"
+},{
+  "_id": {
+    "$oid": "60dce3f54d939cf6db87738e"
+  },
+  "Question": "How many U.S. states border the Pacific Ocean?",
+  "Answer": "5"
+},{
+  "_id": {
+    "$oid": "60dce49c4d939cf6db87738f"
+  },
+  "Question": "Argentina is a part of which continent?",
+  "Answer": "South America"
+},{
+  "_id": {
+    "$oid": "60dce5154d939cf6db877390"
+  },
+  "Question": "How many planets are there in the solar system?",
+  "Answer": "8"
+},{
+  "_id": {
+    "$oid": "60dce5374d939cf6db877391"
+  },
+  "Question": "What is the capital city of Indonesia?",
+  "Answer": "Jakarta\n\nPlay"
+},{
+  "_id": {
+    "$oid": "60dce5c34d939cf6db877392"
+  },
+  "Question": "How many metres in a kilometre?",
+  "Answer": "1000"
+},{
+  "_id": {
+    "$oid": "60dce61a4d939cf6db877393"
+  },
+  "Question": "Which of these creatures does NOT have 4 legs?",
+  "Answer": "Ostrich"
+},{
+  "_id": {
+    "$oid": "60dce7f44d939cf6db877394"
+  },
+  "Question": "What is the outermost layer of the Earth called?",
+  "Answer": "Crust"
+},{
+  "_id": {
+    "$oid": "60dce8514d939cf6db877395"
+  },
+  "Question": "Which country is the sovereign state of Gibraltar?",
+  "Answer": "United Kingdom"
+},{
+  "_id": {
+    "$oid": "60dce8784d939cf6db877396"
+  },
+  "Question": "How many strings are there ona star Y joining the audience o\nin the practice are",
+  "Answer": "4"
+},{
+  "_id": {
+    "$oid": "60dce8e94d939cf6db877397"
+  },
+  "Question": "What does a thermometer measure?",
+  "Answer": "Temperature"
+},{
+  "_id": {
+    "$oid": "60dce92c4d939cf6db877398"
+  },
+  "Question": "Which of these is NOT a prime number?",
+  "Answer": "15"
+},{
+  "_id": {
+    "$oid": "60dce9534d939cf6db877399"
+  },
+  "Question": "Which colour best describes an Emerald gemstone?",
+  "Answer": "Green"
+},{
+  "_id": {
+    "$oid": "60dce9794d939cf6db87739a"
+  },
+  "Question": "In which year did World War 2 end?",
+  "Answer": "1945"
+},{
+  "_id": {
+    "$oid": "60dce9e54d939cf6db87739b"
+  },
+  "Question": "What is the capital city of Brazil?",
+  "Answer": "Brasilia"
+},{
+  "_id": {
+    "$oid": "60dcea074d939cf6db87739c"
+  },
+  "Question": "Which of these chemical elements is a Halogen?",
+  "Answer": "lodine (I)"
+},{
+  "_id": {
+    "$oid": "60dceb0f4d939cf6db87739d"
+  },
+  "Question": "What element does '0' represent on the periodic table?",
+  "Answer": "Oxygen"
+},{
+  "_id": {
+    "$oid": "60dceb374d939cf6db87739e"
+  },
+  "Question": "How many degrees do the interior angles in a triangle add up to?",
+  "Answer": "180"
+},{
+  "_id": {
+    "$oid": "60dced3365262f297c486532"
+  },
+  "Question": "What is the Roman Numeral for the number 10?",
+  "Answer": "m"
+},{
+  "_id": {
+    "$oid": "60dced8465262f297c486533"
+  },
+  "Question": "What is the official currency of the United Kingdom?",
+  "Answer": "Pound £"
+},{
+  "_id": {
+    "$oid": "60dceda465262f297c486534"
+  },
+  "Question": "How often is the FIFA World Cup (Football/Soccer) held?",
+  "Answer": "4 years"
+},{
+  "_id": {
+    "$oid": "60dcedd665262f297c486535"
+  },
+  "Question": "How many rings are present on the symbol of the Olympic Games?",
+  "Answer": "5"
+},{
+  "_id": {
+    "$oid": "60dcee4865262f297c486536"
+  },
+  "Question": "Which country did AC/DC originate from?",
+  "Answer": "Australia"
+},{
+  "_id": {
+    "$oid": "60dcef99bd816ec7388441a2"
+  },
+  "Question": "In Star Wars, what colour armour do imperial storm troopers wear?",
+  "Answer": "White"
+},{
+  "_id": {
+    "$oid": "60dcefbdbd816ec7388441a3"
+  },
+  "Question": "What’s the fastest land animal in the world?",
+  "Answer": "Cheetah"
+},{
+  "_id": {
+    "$oid": "60dcefdebd816ec7388441a4"
+  },
+  "Question": "Which fast food franchise uses the Slogan \"Eat Fresh\"?",
+  "Answer": "Subway"
+},{
+  "_id": {
+    "$oid": "60dcf01abd816ec7388441a5"
+  },
+  "Question": "What is the name of the tallest man-made structure in the world?",
+  "Answer": "Burj Khalifa"
+},{
+  "_id": {
+    "$oid": "60dcf061bd816ec7388441a6"
+  },
+  "Question": "Which National team won the first Football / Soccer World Cup?",
+  "Answer": "Uruguay"
+},{
+  "_id": {
+    "$oid": "60dcf082bd816ec7388441a7"
+  },
+  "Question": "Which song became the first video on YouTube to reach one billion\nviews?",
+  "Answer": "Gangnam Style"
+},{
+  "_id": {
+    "$oid": "60dcf092bd816ec7388441a8"
+  },
+  "Question": "Which country was the first to use the tank?",
+  "Answer": "Britain"
+},{
+  "_id": {
+    "$oid": "60dcf150bd816ec7388441a9"
+  },
+  "Question": "Which of these super heroes wears red on their main costume?",
+  "Answer": "Spider-man"
+},{
+  "_id": {
+    "$oid": "60dcf1abbd816ec7388441aa"
+  },
+  "Question": "yr\nTraditionally, how many Wonders of the World are there?",
+  "Answer": "7"
+},{
+  "_id": {
+    "$oid": "60dcf1d5bd816ec7388441ab"
+  },
+  "Question": "Which of these names has 2 syllables?",
+  "Answer": "Robert"
+},{
+  "_id": {
+    "$oid": "60dcf1fabd816ec7388441ac"
+  },
+  "Question": "How many zeroes are in the number one million?",
+  "Answer": "6"
+},{
+  "_id": {
+    "$oid": "60dcf20fbd816ec7388441ad"
+  },
+  "Question": "In what year was the very first model of the IPhone released?",
+  "Answer": "2007"
+},{
+  "_id": {
+    "$oid": "60dcf3cd6c2a0b2b486f33c9"
+  },
+  "Question": "Sweden is a part of which continent?",
+  "Answer": "Europe"
+},{
+  "_id": {
+    "$oid": "60dcf43c2f3bb75a6c2b1080"
+  },
+  "Question": "What is the capital city of Russia?",
+  "Answer": "Moscow"
+},{
+  "_id": {
+    "$oid": "60dcf4522f3bb75a6c2b1081"
+  },
+  "Question": "Which of these South American countries speak Portuguese?",
+  "Answer": "Brazil"
+},{
+  "_id": {
+    "$oid": "60dcf4652f3bb75a6c2b1082"
+  },
+  "Question": "Which number is considered unlucky in Japanese culture?",
+  "Answer": "4"
+},{
+  "_id": {
+    "$oid": "60dcf4902f3bb75a6c2b1083"
+  },
+  "Question": "What colour is the logo for Roblox Studio?",
+  "Answer": "Blue"
+},{
+  "_id": {
+    "$oid": "60dcf4b82f3bb75a6c2b1084"
+  },
+  "Question": "Which Linkin Park album featured the songs \"Rebellion\" and \"Until\nIt's Gone\"?",
+  "Answer": "The Hunting Party"
+},{
+  "_id": {
+    "$oid": "60dcf5f92f3bb75a6c2b1085"
+  },
+  "Question": "What is the capital city of Spain?",
+  "Answer": "Madrid"
+},{
+  "_id": {
+    "$oid": "60dcf6192f3bb75a6c2b1086"
+  },
+  "Question": "Complete the following saying. \"Don't put all your eggs in one...”",
+  "Answer": "Basket"
+},{
+  "_id": {
+    "$oid": "60dcf63b2f3bb75a6c2b1087"
+  },
+  "Question": "In which year was Barack Obama FIRST elected as the US President?",
+  "Answer": "2008"
+},{
+  "_id": {
+    "$oid": "60dcf6632f3bb75a6c2b1088"
+  },
+  "Question": "Which singer released the songs \"Shape Of You\" and \"Thinking Out\nLoud\"?",
+  "Answer": "Ed Sheeran"
+},{
+  "_id": {
+    "$oid": "60dcf68e2f3bb75a6c2b1089"
+  },
+  "Question": "Which development group created Adopt Me?",
+  "Answer": "DreamCraft"
+},{
+  "_id": {
+    "$oid": "60dcf6c92f3bb75a6c2b108a"
+  },
+  "Question": "Which programming language does Roblox use an adaptation of?",
+  "Answer": "Lua"
+},{
+  "_id": {
+    "$oid": "60dcf6f22f3bb75a6c2b108b"
+  },
+  "Question": "What is the name of the film series involving a secret agent known as\n007?",
+  "Answer": "James Bond"
+},{
+  "_id": {
+    "$oid": "60dcf7082f3bb75a6c2b108c"
+  },
+  "Question": "Who is the lead singer of Coldplay?",
+  "Answer": "Chris Martin"
+},{
+  "_id": {
+    "$oid": "60dcf7e12f3bb75a6c2b108d"
+  },
+  "Question": "In which month does America celebrate \"American Independence\nDay\"?",
+  "Answer": "July"
+},{
+  "_id": {
+    "$oid": "60dcf8762f3bb75a6c2b108e"
+  },
+  "Question": "Who is the author of the Harry Potter series?",
+  "Answer": "J. K. Rowling"
+},{
+  "_id": {
+    "$oid": "60dcf8982f3bb75a6c2b108f"
+  },
+  "Question": "What is the chemical symbol for Potassium?",
+  "Answer": "m"
+},{
+  "_id": {
+    "$oid": "60dcf8d42f3bb75a6c2b1090"
+  },
+  "Question": "Complete the following saying. \"Too many cooks spoil the...”",
+  "Answer": "Broth"
+},{
+  "_id": {
+    "$oid": "60dcf8f62f3bb75a6c2b1091"
+  },
+  "Question": "Michael Phelps is an Olympic athlete known for which sport?",
+  "Answer": "Swimming"
+},{
+  "_id": {
+    "$oid": "60dcf90c2f3bb75a6c2b1092"
+  },
+  "Question": "In Harry Potter, who was the defence against the dark arts teacher\nduring Harry's third year at Hogwarts?",
+  "Answer": "Remus Lupin"
+},{
+  "_id": {
+    "$oid": "60dcfa1c2f3bb75a6c2b1093"
+  },
+  "Question": "What is the highest possible number obtained from rolling three\nsix-sided dice.",
+  "Answer": "18"
+},{
+  "_id": {
+    "$oid": "60dcfa4e2f3bb75a6c2b1094"
+  },
+  "Question": "Which card game shares it's name with the Spanish word for \"one\"?",
+  "Answer": "Uno"
+},{
+  "_id": {
+    "$oid": "60dcfa612f3bb75a6c2b1095"
+  },
+  "Question": "What is the name of the pirate in Peter Pan?",
+  "Answer": "Captain Hook"
+},{
+  "_id": {
+    "$oid": "60dcfab72f3bb75a6c2b1096"
+  },
+  "Question": "In Snooker, how many points is the pink ball worth?",
+  "Answer": "6"
+},{
+  "_id": {
+    "$oid": "60dcfaff2f3bb75a6c2b1097"
+  },
+  "Question": "Who is creditted with inventing scissors?",
+  "Answer": "Leonardo da Vinci"
+},{
+  "_id": {
+    "$oid": "60dcfe88e126e17ac4d66fb6"
+  },
+  "Question": "Which of the following best describes the musical term \"Bass\"?",
+  "Answer": "Low Notes"
+},{
+  "_id": {
+    "$oid": "60dcfec2e126e17ac4d66fb7"
+  },
+  "Question": "Which of these former British colonies still uses the Union Flag?",
+  "Answer": "Australia"
+},{
+  "_id": {
+    "$oid": "60dcffee0bd641c0feb48d9c"
+  },
+  "Question": "How many degrees are there in a Right Angle?",
+  "Answer": "90"
+},{
+  "_id": {
+    "$oid": "60dd002b0bd641c0feb48d9d"
+  },
+  "Question": "Which Disney movie is Elsa, princess of Arendelle, featured in?",
+  "Answer": "Frozen"
+},{
+  "_id": {
+    "$oid": "60dd00410bd641c0feb48d9e"
+  },
+  "Question": "Which climate type does the United Kingdom come under?",
+  "Answer": "Temperate"
+},{
+  "_id": {
+    "$oid": "60dd00b20bd641c0feb48d9f"
+  },
+  "Question": "Who was credited with making the first computer?",
+  "Answer": "Charles Babbage"
+},{
+  "_id": {
+    "$oid": "60dd00d50bd641c0feb48da0"
+  },
+  "Question": "Which company developed Runescape?",
+  "Answer": "Jagex"
+},{
+  "_id": {
+    "$oid": "60dd01940bd641c0feb48da1"
+  },
+  "Question": "Which word rhymes with Hound?",
+  "Answer": "Found"
+},{
+  "_id": {
+    "$oid": "60dd02620bd641c0feb48da2"
+  },
+  "Question": "What is the name of the 1993 movie about dinosaurs?",
+  "Answer": "Jurassic Park"
+},{
+  "_id": {
+    "$oid": "60dd02780bd641c0feb48da3"
+  },
+  "Question": "In which year did Roblox officially launch?",
+  "Answer": "2006"
+},{
+  "_id": {
+    "$oid": "60dd02c40bd641c0feb48da4"
+  },
+  "Question": "Sheffield is located in which English county?",
+  "Answer": "Yorkshire"
+},{
+  "_id": {
+    "$oid": "60dd041d0bd641c0feb48da5"
+  },
+  "Question": "Which of the following is an input device?",
+  "Answer": "Keyboard"
+},{
+  "_id": {
+    "$oid": "60dd047b0bd641c0feb48da6"
+  },
+  "Question": "What is the name of the closest major galaxy to the Milky Way?",
+  "Answer": "Andromeda"
+},{
+  "_id": {
+    "$oid": "60dd04cf0bd641c0feb48da7"
+  },
+  "Question": "Which British band released the songs Wonderwall and Don't Look\nBack In Anger?",
+  "Answer": "Oasis"
+},{
+  "_id": {
+    "$oid": "60dd04e50bd641c0feb48da8"
+  },
+  "Question": "Which company manufactured the classical arcade game \"Pong\"?",
+  "Answer": "Atari"
+},{
+  "_id": {
+    "$oid": "60dd05e80bd641c0feb48da9"
+  },
+  "Question": "How many Lungs does a human have?",
+  "Answer": "2"
+},{
+  "_id": {
+    "$oid": "60dd06220bd641c0feb48daa"
+  },
+  "Question": "Which Microsoft program is used to create slide show presentations?",
+  "Answer": "PowerPoint"
+},{
+  "_id": {
+    "$oid": "60dd06730bd641c0feb48dab"
+  },
+  "Question": "How many stars are present on the flag of the United States of\nAmerica?",
+  "Answer": "50"
+},{
+  "_id": {
+    "$oid": "60dd06a90bd641c0feb48dac"
+  },
+  "Question": "Which nut is used to make Marzipan?",
+  "Answer": "Almonds"
+},{
+  "_id": {
+    "$oid": "60dd07830bd641c0feb48dad"
+  },
+  "Question": "Which sport is the term \"Hole in one\" commonly used?",
+  "Answer": "Golf"
+},{
+  "_id": {
+    "$oid": "60dd07d00bd641c0feb48dae"
+  },
+  "Question": "Not including Jokers, how many cards are there in a standard pack of\nplaying cards?",
+  "Answer": "52"
+},{
+  "_id": {
+    "$oid": "60dd08250bd641c0feb48daf"
+  },
+  "Question": "In what year did the United States declare independence?",
+  "Answer": "1776"
+},{
+  "_id": {
+    "$oid": "60dd092d0bd641c0feb48db0"
+  },
+  "Question": "What do you calla shape with 5 sides?",
+  "Answer": "Pentagon"
+},{
+  "_id": {
+    "$oid": "60dd09a90bd641c0feb48db1"
+  },
+  "Question": "What is the name of the song that Queen Elsa sings as she builds her\nice castle in the movie Frozen?",
+  "Answer": "Let It Go"
+},{
+  "_id": {
+    "$oid": "60dd0a060bd641c0feb48db2"
+  },
+  "Question": "What is Hummus primarily made from?",
+  "Answer": "Chickpeas"
+},{
+  "_id": {
+    "$oid": "60dd0a2c0bd641c0feb48db3"
+  },
+  "Question": "What’s the total number of dots on a pair of dice?",
+  "Answer": "42"
+},{
+  "_id": {
+    "$oid": "60dd0be70bd641c0feb48db4"
+  },
+  "Question": "Claustrophobia is the fear of what?",
+  "Answer": "Small Spaces"
+},{
+  "_id": {
+    "$oid": "60dd0c0f0bd641c0feb48db5"
+  },
+  "Question": "Which fruit was responsible for Isaac Newton coming up with his law\nof gravity?",
+  "Answer": "Apple"
+},{
+  "_id": {
+    "$oid": "60dd11e316ff654a92859d55"
+  },
+  "Question": "Which chess piece can only move horizontally or vertically?",
+  "Answer": "Rook"
+},{
+  "_id": {
+    "$oid": "60dd1419c152c315449904c5"
+  },
+  "Question": "How many countries share a border with Germany?",
+  "Answer": "9"
+}]
